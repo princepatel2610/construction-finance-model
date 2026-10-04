@@ -78,7 +78,7 @@ Next steps:
 
 ## Open the workbook
 
-[Download the Excel workbook](Prince_Patel_Construction_Finance_Model.xlsx). On GitHub, open the file and use the download button, then open it in an Excel version that supports XLOOKUP.
+[Download the Excel workbook](excel/Prince_Patel_Construction_Finance_Model.xlsx). On GitHub, open the file and use the download button, then open it in an Excel version that supports XLOOKUP.
 
 The attached workbook is saved with Assumptions B6 = 2 (base case). To repeat the project P-101 scenario exercise, change B6 to 3 and review Financial Model G9, H9 and K9; restore B6 to 2 afterward. Other scenario assumptions also change, so company-level cash effects are not solely a cost sensitivity.
 
